@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ ██ <br>
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ ██ <br>
 ███████ ██  &nbsp;  &nbsp;██ <br>
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ <br>
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ ██ <br>
-=======
-██ &nbsp; &nbsp; &nbsp; &nbsp; ██ ██ ██ <br>
-██ &nbsp; &nbsp; &nbsp; &nbsp; ██ ██ ██ <br>
-███████ ██  &nbsp; &nbsp;██ <br>
-██ &nbsp; &nbsp; &nbsp; &nbsp; ██ ██ <br>
-██ &nbsp; &nbsp; &nbsp; &nbsp; ██ ██ ██ <br>
->>>>>>> d69ac647dab49e20dc7bb4f1cc0cfbd2f242216f
                   
                   
 #### Some stuff about me
