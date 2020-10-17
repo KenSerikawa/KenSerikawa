@@ -13,4 +13,4 @@
 - 💻 You can check my CV by clicking [here](https://kenserikawa.github.io/)
 - 🔭 I’m currently working on my own projects, feel free to check my repos down here 👇
 
-<img src="/cool-cat-nyan.png" width="680" height="300" />
+<img src="https://i.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.webp" width="680" height="300" />
