@@ -1,6 +1,6 @@
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ ██ <br>
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ ██ <br>
-███████ ██  &nbsp;  &nbsp;██ <br>
+███████ ██  &nbsp;  &nbsp;██ <br> <!-- Trying my best with freaking blank spaces, any tips? -->
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ <br>
 ██ &nbsp; &nbsp; &nbsp; &nbsp;██ ██ ██ <br>
                   
